@@ -6,4 +6,4 @@ Author: AK Zero
 Date: 7.11.2023
 Version: 0.0.1
 ### Screenshot
-![Image text](/path/to/the/screenshot.png)
+![Image text](image.png)
